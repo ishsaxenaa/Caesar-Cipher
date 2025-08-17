@@ -10,3 +10,17 @@ Features
 - Encrypt Text: Shifts each letter in the plaintext by a specified number of positions to generate ciphertext.
 - Decrypt Text: Reverses the shift to convert ciphertext back to the original plaintext.
 - Supports Upper and Lower Case Letters: Handles both uppercase and lowercase letters, converting into lowercase in the output.
+
+
+
+
+
+
+
+
+![1](https://github.com/user-attachments/assets/e6d112ce-0045-44c9-8804-99d66b27dfb4)
+
+
+
+
+![2](https://github.com/user-attachments/assets/6581f421-d058-4bbf-ae1b-2d398a32f7b8)
